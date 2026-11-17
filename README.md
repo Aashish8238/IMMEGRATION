@@ -1,4 +1,4 @@
-# DIXIT: Overseas Education & Career Consultancy (React + Vite)
+# Overseas Education & Career Consultancy (React + Vite)
 
 ## Run
 ```bash
